@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import NavBar from './NavBar';
 import Home from './Home';
 
